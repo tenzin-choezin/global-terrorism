@@ -57,7 +57,7 @@ python dashboard.py
 </p>
 
 ### Technologies used
-* Python libraries - numpy, pandas, plotly, dash
+* Python libraries - numpy, pandas, plotly, dash, geopandas, folium
 * Version control - git 
 
 ### Tools and Services : 
