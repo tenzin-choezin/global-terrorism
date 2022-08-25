@@ -12,7 +12,7 @@ The main two goals of this analytics project are:
 **Note:** The data file is too large to include in this repo. To find it, click [HERE](https://www.kaggle.com/datasets/START-UMD/gtd?datasetId=504&searchQuery=plotly)!
 
 ### Analytics Dashboard Preview
-![](dashboard.png)
+![](homepage.gif)
 
 
 ## Usage
