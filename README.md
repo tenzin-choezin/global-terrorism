@@ -61,7 +61,7 @@ python dashboard.py
 * Version control - git 
 
 ### Tools and Services : 
-* IDE - Vs code 
+* IDE - Vs code, Jupyter Lab
 * Application deployment - Local server
 * Code repository - GitHub
 -----------------
