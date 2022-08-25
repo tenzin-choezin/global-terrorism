@@ -44,7 +44,7 @@ In order to visualize your own finances, you'll have to find get transaction dat
 
 ### Running the application
 ```shell
-python Dashboard.py
+python dashboard.py
 ```
 
 -----------------
