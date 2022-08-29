@@ -9,10 +9,9 @@ The main two goals of this analytics project are:
   1. Getting a data-driven understanding of global terrorism from the last five decades
   2. Building new and strengthening existing data visualization skills, with an emphasis on geospatial charts
   
-**Note:** The data file is too large to include in this repo. To find it, click [HERE](https://www.kaggle.com/datasets/START-UMD/gtd?datasetId=504&searchQuery=plotly)!
-
+  
 ### Analytics Dashboard Preview
-![](dashboard.png)
+![](homepage.gif)
 
 
 ## Usage
@@ -38,13 +37,12 @@ from dash import Dash, dcc, html, Input, Output, dash_table, State
 You probably want to install them with `pip` or `conda`.
 
 
-### Adding your own data
-
-In order to visualize your own finances, you'll have to find get transaction data in csv format and pass it into the cleandata function in the Dashboard.py application file.
+### Getting the data
+The dataset is too large to include in this repo. To find it, click [HERE](https://www.kaggle.com/datasets/START-UMD/gtd?datasetId=504&searchQuery=plotly) to download and upload to your own workspace!
 
 ### Running the application
 ```shell
-python Dashboard.py
+python dashboard.py
 ```
 
 -----------------
@@ -59,11 +57,11 @@ python Dashboard.py
 </p>
 
 ### Technologies used
-* Python libraries - numpy, pandas, plotly, dash
+* Python libraries - numpy, pandas, plotly, dash, geopandas, folium
 * Version control - git 
 
 ### Tools and Services : 
-* IDE - Vs code 
+* IDE - Vs code, Jupyter Lab
 * Application deployment - Local server
 * Code repository - GitHub
 -----------------
