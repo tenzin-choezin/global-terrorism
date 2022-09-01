@@ -37,7 +37,7 @@ You probably want to install them with `pip` or `conda`.
 
 
 ### Getting the data
-The dataset is too large to include in this repo. To find it, click [HERE](https://www.kaggle.com/datasets/START-UMD/gtd?datasetId=504&searchQuery=plotly) to download and upload to your own workspace!
+The main dataset is too large to include in this repo. To find it, click [HERE](https://www.kaggle.com/datasets/START-UMD/gtd?datasetId=504&searchQuery=plotly) to download and upload to your own workspace! For the geospatial data files used, click [here](https://github.com/tenzin-choezin/global-terrorism/tree/main/data). It's stoerd in the **data** folder in this repo.
 
 ### Running the application
 ```shell
