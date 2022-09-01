@@ -8,7 +8,8 @@ The Global Terrorism Database (GTD) is an open-source database including informa
 The main two goals of this analytics project are:
   1. Getting a data-driven understanding of global terrorism from the last five decades
   2. Building new and strengthening existing data visualization skills, with an emphasis on geospatial charts
-  
+
+**To see the full notebook in action, since it doesn't render within the repo, click [HERE](https://nbviewer.org/github/tenzin-choezin/global-terrorism/blob/main/analysis.ipynb)!**
   
 ### Analytics Dashboard Preview
 ![](homepage/homepage.gif)
