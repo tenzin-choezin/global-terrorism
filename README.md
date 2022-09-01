@@ -23,16 +23,12 @@ The main two goals of this analytics project are:
 ```shell
 import numpy as np  
 import pandas as pd 
-import matplotlib.pyplot as plt 
-import seaborn as sns
 import warnings
-warnings.filterwarnings('ignore')
 import plotly.express as px
 import numpy as np
 import plotly.graph_objects as go
 import geopandas as gpd
-import folium
-from folium.plugins import MarkerCluster
+import json
 import dash
 from dash import Dash, dcc, html, Input, Output, dash_table, State
 ```
