@@ -11,7 +11,10 @@ The main two goals of this analytics project are:
   
   
 ### Analytics Dashboard Preview
-![](homepage.gif)
+![](homepage/homepage.gif)
+![](homepage/homepage2.png)
+![](homepage/homepage3.png)
+![](homepage/homepage4.png)
 
 
 ## Usage
