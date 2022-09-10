@@ -19,7 +19,7 @@ The main two goals of this analytics project are:
 
 
 ## Usage
-### Install Dependencies
+### Installing packages
 
 ```shell
 import numpy as np  
@@ -40,10 +40,16 @@ You probably want to install them with `pip` or `conda`.
 ### Getting the data
 The main dataset is too large to include in this repo. To find it, click [HERE](https://www.kaggle.com/datasets/START-UMD/gtd?datasetId=504&searchQuery=plotly) to download and upload to your own workspace! For the geospatial data files used, click [here](https://github.com/tenzin-choezin/global-terrorism/tree/main/data). It's stoerd in the **data** folder in this repo.
 
+### Cloning the repo
+```shell
+$ git clone https://github.com/tenzin-choezin/global-terrorism
+```shell
+For more information on how to clone a github repo, click [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+
 ### Running the application
 ```shell
-python dashboard.py
-```
+$ python dashboard.py
+```shell
 
 -----------------
 <p align="left">
